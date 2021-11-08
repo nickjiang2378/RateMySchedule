@@ -1,0 +1,17 @@
+backend/node_modules/
+React-Native/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+node_modules
+keys.json
